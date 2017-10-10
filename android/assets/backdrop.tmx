@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="13" tilewidth="16" tileheight="16" nextobjectid="16">
+ <imagelayer name="background">
+  <image source="background.png" width="400" height="208"/>
+ </imagelayer>
+ <objectgroup name="ground">
+  <object id="1" x="0" y="167.502" width="399.333" height="40.2813"/>
+ </objectgroup>
+ <objectgroup name="walls">
+  <object id="12" x="391.656" y="-14.3721" width="12.7714" height="193.172"/>
+  <object id="14" x="0" y="-14.3894" width="16" height="190.389"/>
+  <object id="15" x="0.599556" y="-30.9889" width="400" height="16"/>
+ </objectgroup>
+</map>

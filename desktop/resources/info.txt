@@ -1,0 +1,24 @@
+
+&&&&&&&&&    "The Great Catsby's Decent Adventure"     &&&&&&&&&&&
+
+***************  Made by Josh Hinkle @ SJSU  *********************
+
+	    Final Project for CS 151 
+	    Instructor: Dr. Angus Yeung 
+	    Spring 2017
+	    
+	    Special Thanks:
+	    Dr. Angus Yeung
+	    Chelsea Cropper
+	    Catsby (our cat) 
+	    	
+	    Built using LibGDX Framework 
+
+**********************   INSTRUCTIONS   ***************************
+   Use left and right arrows to move, up arrow to jump. 
+   
+   Aim for kibble and fish, but ignore vegetables! 
+   Do not touch spiked obstacles or get sandwiched by any obstacles. 
+   
+   
+      *** ALL ARTWORK / MUSIC / CODE ORIGINAL UNLESS NOTED ***
